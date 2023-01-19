@@ -1,9 +1,2 @@
 # About My-Self 
-I AM MOHD SAHIL WARSI
-STUDY IN JAMIA MILLIA ISLAMIA
-CURRENTLY I HAVE JOIN INTERN AS WEB DEVELOPER(HTML;CSS;JS;PHP) AT MJCORPORATION
-PURSING IN MASTER IN COMPUTER APPLICATION
-MY LAST QUALIFACTION IS BACHLOR IN COMPUTER APPLICATION
-I HAVE COMPLETED MY 10+2 AT VARANASI AT HAPPY HOME ENGLISH SCHOOL.
-AND ALSO DID MY 10 AT SAME SCHOOL
-
+I am an enthusiastic software developer with experience in variety of projects and internship participating in the complete product development lifecycles. My objective is to bring my strong sense of dedication, motivation, and responsibility to solve problems, and to utilize my problem solving and communication skills for the growth of the organization and my career.
